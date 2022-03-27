@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from typing import List, Set
 
 USERNAME="davishaupt"
-OVERFLOW_LIST="misc"
+OVERFLOW_LIST="people"
 
 load_dotenv()
 
